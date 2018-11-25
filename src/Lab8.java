@@ -12,7 +12,7 @@ import java.util.Collections;
 import java.util.Comparator;
 
 
-public class  Lab8
+public class Lab8
 {
 
     public static void main(String args[]) throws IOException
